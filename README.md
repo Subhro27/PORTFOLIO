@@ -6,7 +6,7 @@ This site showcases my **UI/UX Design**, **Data Analysis**, and **AI-based proje
 ---
 
 ## 🚀 Live Demo
-[View Portfolio](https://your-github-username.github.io/your-repo-name)  
+https://subhro27.github.io/PORTFOLIO
 
 
 ---
